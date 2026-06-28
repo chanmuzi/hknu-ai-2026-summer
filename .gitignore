@@ -78,3 +78,6 @@ dmypy.json
 .vscode/
 *.swp
 *.swo
+
+# Agent memory (cowork/claude) — 추적 제외
+.omc/

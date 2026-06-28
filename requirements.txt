@@ -1,13 +1,36 @@
 # 한경국립대 2026 여름특강 (초급반) — 실습 패키지
-# Colab에는 대부분 기본 설치돼 있어, 로컬 실행 시에만 필요합니다.
+# 대부분 Google Colab 에 기본 설치돼 있어, 로컬 실행 시에만 필요합니다.
+# 각 노트북도 필요한 패키지를 셀에서 직접 설치(!pip install)하므로, 차시 표기는 참고용입니다.
 
+# --- 공통 / 데이터 분석 (Colab 기본 제공) : 3~4차시 ---
 numpy
 pandas
 matplotlib
 seaborn
 scikit-learn
 
-# 3~4차시 딥러닝 / 5차시 RAG에서 사용
-torch
+# --- 2차시 · ML/DL 이해 + Hugging Face 모델 체험 ---
 transformers
+torch                      # 일부 모델은 GPU 권장 (런타임 → GPU)
+Pillow                     # 이미지 모델 체험 시
+requests
+
+# --- 3차시 · 파이썬·수학 (s3-04 벡터/유사도) ---
+sentence-transformers
+
+# --- 4차시 · House Prices(s4-04) ---
+kaggle                     # Kaggle 데이터 다운로드 (선택)
+
+# --- 5차시 · 프롬프트 / RAG 챗봇 (s5-01·02·04) ---
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+chromadb
+gradio                     # 챗봇 UI (gradio>=5.0)
+
+# --- 5차시 · BERT 분류 파인튜닝 (s5-03) ---
 datasets
+evaluate                   # transformers·torch 는 위에서 설치 (GPU 권장)
