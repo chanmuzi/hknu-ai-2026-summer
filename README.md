@@ -33,8 +33,15 @@
 - 머신러닝 분류 (붓꽃) — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-4-data-analysis/s4-03-머신러닝분류(붓꽃)-실습.ipynb)
 - 집값 예측 (회귀) — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-4-data-analysis/s4-04-집값예측(회귀)-실습.ipynb)
 
-> **Netflix 분석**은 `session-4-data-analysis/data/netflix_titles.csv` 를 사용합니다. 노트북이 저장소를 `git clone` 해 자동으로 불러옵니다.
-> **집값 예측**은 Kaggle *House Prices* 데이터(`train.csv`·`test.csv`)가 필요합니다 — 노트북 안내대로 [대회 페이지](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)에서 내려받아 Colab 파일 패널에 업로드하세요.
+> **Netflix 분석 · 집값 예측** 데이터(`netflix_titles.csv`·`train.csv`·`test.csv`)는 모두 `session-4-data-analysis/data/` 에 포함돼 있습니다. 노트북이 저장소를 `git clone` 해 자동으로 불러오므로 따로 받을 필요가 없습니다. (집값 데이터 원본: [Kaggle House Prices](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data))
+
+### 4차시 · 심화(선택)
+> 시간 여유·관심자용 선택 자료입니다.
+- 넘파이·판다스 추가 예제 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-4-data-analysis/심화-선택/s4-심화1-넘파이판다스추가예제-실습.ipynb)
+- 영화리뷰 감성 분석 · 텍스트 분류 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-4-data-analysis/심화-선택/s4-심화2-영화리뷰감성분석-실습.ipynb)
+- YOLO 객체 탐지 · GPU 권장 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-4-data-analysis/심화-선택/s4-심화3-YOLO객체탐지-실습.ipynb)
+
+> 개념 놀이터(시각화 사이트 가이드)는 `session-2-ml-dl-basics/심화-선택/` 안의 HTML 파일을 브라우저로 엽니다.
 
 ### 5차시 · 딥러닝과 RAG 챗봇
 - 프롬프트와 챗봇 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-01-프롬프트와챗봇-실습.ipynb)
