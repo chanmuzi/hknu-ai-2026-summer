@@ -16,7 +16,7 @@
 - Colab 시작하기 (환경 온보딩) — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-1-ai-intro/s1-01-Colab-시작하기.ipynb)
 
 ### 2차시 · 머신러닝·딥러닝의 이해와 체험
-- 허깅페이스 모델 체험 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-2-ml-dl-basics/s2-01-허깅페이스-모델체험-실습.ipynb)
+- 허깅페이스 모델 체험 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-2-ml-dl-basics/s2-02-허깅페이스-모델체험-실습.ipynb)
 
 > OpenAI API 키가 **필요 없습니다.** 사전학습된 공개 모델을 그대로 불러와 체험합니다.
 > 일부 모델은 **GPU 권장** — 상단 **런타임 → 런타임 유형 변경 → GPU** 를 켜면 빠릅니다.
@@ -44,13 +44,13 @@
 > 개념 놀이터(시각화 사이트 가이드)는 `session-2-ml-dl-basics/심화-선택/` 안의 HTML 파일을 브라우저로 엽니다.
 
 ### 5차시 · 딥러닝과 RAG 챗봇
-- 프롬프트와 챗봇 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-01-프롬프트와챗봇-실습.ipynb)
-- RAG 챗봇 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-02-RAG챗봇-실습.ipynb)
-- BERT 분류 · 라벨링과 파인튜닝 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-03-BERT분류-라벨링과파인튜닝-실습.ipynb)
-- 멀티에이전트와 NotebookLM — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-04-멀티에이전트와NotebookLM-실습.ipynb)
+- BERT 분류 · 라벨링과 파인튜닝 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-01-BERT분류-라벨링과파인튜닝-실습.ipynb)
+- 프롬프트와 챗봇 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-02-프롬프트와챗봇-실습.ipynb)
+- RAG 챗봇 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-03-RAG챗봇-실습.ipynb)
+- 멀티에이전트 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-5-prompt-rag/s5-04-멀티에이전트-실습.ipynb)
 
-> **프롬프트·RAG·멀티에이전트**(s5-01·02·04)는 **OpenAI API 키**가 필요합니다 — 노트북 실행 중 입력 창에 붙여 넣습니다.
-> **BERT 파인튜닝**(s5-03)은 API 키 없이 동작하지만 **GPU 권장** — 학습 속도를 위해 런타임을 GPU 로 바꾸세요.
+> **BERT 파인튜닝**(s5-01)은 API 키 없이 동작하지만 **GPU 권장** — 학습 속도를 위해 런타임을 GPU 로 바꾸세요.
+> **프롬프트·RAG·멀티에이전트**(s5-02·03·04)는 **OpenAI API 키**가 필요합니다 — 노트북 실행 중 입력 창에 붙여 넣습니다.
 
 ## 환경
 대부분의 패키지는 Colab에 기본 설치돼 있고, 노트북마다 필요한 패키지를 셀에서 직접 설치합니다.
