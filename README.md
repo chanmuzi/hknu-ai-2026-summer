@@ -16,7 +16,7 @@
 - Colab 시작하기 (환경 온보딩) — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-1-ai-intro/s1-01-Colab-시작하기.ipynb)
 
 ### 2차시 · 머신러닝·딥러닝의 이해와 체험
-- 허깅페이스 모델 체험 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-2-ml-dl-basics/s2-01-허깅페이스-모델체험-실습.ipynb)
+- 허깅페이스 모델 체험 — [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanmuzi/hknu-ai-2026-summer/blob/main/session-2-ml-dl-basics/s2-02-허깅페이스-모델체험-실습.ipynb)
 
 > OpenAI API 키가 **필요 없습니다.** 사전학습된 공개 모델을 그대로 불러와 체험합니다.
 > 일부 모델은 **GPU 권장** — 상단 **런타임 → 런타임 유형 변경 → GPU** 를 켜면 빠릅니다.
